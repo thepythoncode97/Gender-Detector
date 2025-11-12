@@ -1,6 +1,6 @@
 # Gender Detector
 
-![Gender Detector](https://raw.githubusercontent.com/alexrony21/Gender-Detector/refs/heads/main/Gender_Detector.png)
+![Gender Detector](https://raw.githubusercontent.com/thepythoncode97/Gender-Detector/refs/heads/main/Gender_Detector.png)
 
 ## Main Features
 1. **Gender Prediction from Names**
